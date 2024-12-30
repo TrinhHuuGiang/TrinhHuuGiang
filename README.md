@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giang Trinh</h1>
 
-### Connect with me:
+### Contact with me:
 
 📧 Email: [giangtrinhvnbl2k2@gmail.com](mailto:giangtrinhvnbl2k2@gmail.com)
 
