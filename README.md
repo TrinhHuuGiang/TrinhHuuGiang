@@ -31,10 +31,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
   <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altium_Designer_Logo.svg/512px-Altium_Designer_Logo.svg.png" alt="altium" width="40" height="40"/>
+    <img src="https://cpe.ifmo.ru/public/nodes/97/2a/67/35/altium_logo.png" alt="altium" width="40" height="40"/>
   </a>
   <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Proteus_Logo.svg/512px-Proteus_Logo.svg.png" alt="proteus" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/Proteus_Design_Suite#/media/File:Proteus_Design_Suite_Atom_Logo.png" alt="proteus" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
