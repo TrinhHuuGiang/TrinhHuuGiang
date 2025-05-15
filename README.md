@@ -7,7 +7,7 @@
 
 
 ## About me:
-*I'm an embedded systems enthusiast with a solid foundation in C/C++, Python, and hardware design. I enjoy developing low-level firmware and working with real-time systems.*
+*I'm an embedded systems enthusiast with a solid foundation in C/C++, some knowledge of Python, and circuit design. I enjoy developing low-level firmware and working with real-time systems.*
 
 ## Contact with me:
 
