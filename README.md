@@ -1,50 +1,58 @@
+<style> body { background-color: white; font-family: Arial, sans-serif; color: black; padding: 20px; } </style>
+
+<body>
+
+
 <h1 align="center">Hi 👋, I'm Giang Trinh</h1>
 
-### Contact with me:
 
-📧 Email: [giangtrinhvnbl2k2@gmail.com](mailto:giangtrinhvnbl2k2@gmail.com)
+## About me:
+*I'm an embedded systems enthusiast with a solid foundation in C/C++, Python, and hardware design. I enjoy developing low-level firmware and working with real-time systems.*
 
-### Languages and Tools:
+## Contact with me:
 
-#### Programming Languages:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="shell" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
-  </a>
-</p>
+- 📧 Email  : [giangtrinhvnbl2k2@gmail.com](mailto:giangtrinhvnbl2k2@gmail.com)
+- 💼 Linkedin : [giang-trinh-huu](https://www.linkedin.com/in/giang-trinh-huu)
 
-#### Tools for Simulation and Design:
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="https://cpe.ifmo.ru/public/nodes/97/2a/67/35/altium_logo.png" alt="altium" width="40" height="40"/>
-  </a>
-  <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="proteus" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-</p>
+## Languages and Tools:
 
+### 1. Programming Languages:
+- C, C++, Python, Bash, SQLite  
+- <p align="left">
+    <img src="./resource/img/C.png" alt="c" width="40" height="40"/>
+    <img src="./resource/img/Cpp.png" alt="cplusplus" width="40" height="40"/>
+    <img src="./resource/img/python.png" alt="python" width="40" height="40"/>
+    <img src="./resource/img/Bash.png" alt="bash_shell" width="40" height="40"/>
+    <img src="./resource/img/SQLite.png" alt="sqlite" width="40" height="40"/>
+  </p>
 
+### 2. Operating Systems:
+- Linux, FreeRTOS  
+- <p align="left">
+    <img src="./resource/img/linux.png" alt="linux" width="40" height="40"/>
+    <img src="./resource/img/freeRTOS.png" alt="freertos" height="30"/>
+  </p>
+
+### 3. Tools for Simulation and Design:
+- Proteus, LTSpice, Altium, MATLAB, Qt Creator
+- <p align="left">
+    <img src="./resource/img/Altium.png" alt="altium" width="40" height="40"/>
+    <img src="./resource/img/Proteus.png" alt="proteus" width="40" height="40"/>
+    <img src="./resource/img/ltspice.png" alt="ltspice" width="40" height="40"/>
+    <img src="./resource/img/Matlab.png" alt="matlab" width="40" height="40"/>
+    <img src="./resource/img/qt.png" alt="qt_creator" width="40" height="40"/>
+  </p>
+
+### 4. Code Editors & IDEs:
+- VS Code, ESP-IDF, Arduino IDE, MCUXpresso, Keil uVision, Atmel Studio
+- <p align="left">
+    <img src="./resource/img/vscode.png" alt="vscode" width="40" height="40"/>
+    <img src="./resource/img/esp_idf.png" alt="esp_idf" width="40" height="40"/>
+    <img src="./resource/img/Arduio.png" alt="arduino" width="40" height="40"/>
+    <img src="./resource/img/mcuxpresso.png" alt="mcuxpresso" width="40" height="40"/>
+    <img src="./resource/img/uvision.png" alt="uvision" width="40" height="40"/>
+    <img src="./resource/img/atmel.png" alt="atmel" width="40" height="40"/>
+  </p>
 
 
 <!--
@@ -61,3 +69,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+</body>
