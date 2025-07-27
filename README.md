@@ -34,9 +34,10 @@
   </p>
 
 ### 3. Tools for Simulation and Design:
-- Proteus, LTSpice, Altium, MATLAB, Qt Creator
+- Altium, KiCad, Proteus, LTSpice, MATLAB, Qt Creator
 - <p align="left">
     <img src="./resource/img/Altium.png" alt="altium" width="40" height="40"/>
+    <img src="./resource/img/KiCad.png" alt="kicad" width="40" height="40"/>
     <img src="./resource/img/Proteus.png" alt="proteus" width="40" height="40"/>
     <img src="./resource/img/ltspice.png" alt="ltspice" width="40" height="40"/>
     <img src="./resource/img/Matlab.png" alt="matlab" width="40" height="40"/>
