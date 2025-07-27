@@ -1,6 +1,4 @@
-<style> body { background-color: white; font-family: Arial, sans-serif; color: black;} </style>
-
-<body>
+<body style="background-color: white; font-family: Arial, sans-serif; color: black;">
 
 
 <h1 align="center">Hi 👋, I'm Giang Trinh</h1>
