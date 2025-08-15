@@ -15,7 +15,7 @@
 ## Languages and Tools:
 
 ### 1. Programming Languages:
-- C, C++, Python, Bash, SQLite  
+<!--- C, C++, Python, Bash, SQLite  -->
 - <p align="left">
     <img src="./resource/img/C.png" alt="c" width="40" height="40"/>
     <img src="./resource/img/Cpp.png" alt="cplusplus" width="40" height="40"/>
@@ -25,14 +25,14 @@
   </p>
 
 ### 2. Operating Systems:
-- Linux, FreeRTOS  
+<!--- Linux, FreeRTOS -->  
 - <p align="left">
     <img src="./resource/img/linux.png" alt="linux" width="40" height="40"/>
     <img src="./resource/img/freeRTOS.png" alt="freertos" height="30"/>
   </p>
 
 ### 3. Tools for Simulation and Design:
-- Altium, KiCad, Proteus, LTSpice, MATLAB, Qt Creator
+<!--- Altium, KiCad, Proteus, LTSpice, MATLAB, Qt Creator-->
 - <p align="left">
     <img src="./resource/img/Altium.png" alt="altium" width="40" height="40"/>
     <img src="./resource/img/KiCad.png" alt="kicad" width="40" height="40"/>
@@ -43,7 +43,7 @@
   </p>
 
 ### 4. Code Editors & IDEs:
-- VS Code, ESP-IDF, Arduino IDE, MCUXpresso, Keil uVision, Atmel Studio
+<!--- VS Code, ESP-IDF, Arduino IDE, MCUXpresso, Keil uVision, Atmel Studio-->
 - <p align="left">
     <img src="./resource/img/vscode.png" alt="vscode" width="40" height="40"/>
     <img src="./resource/img/esp_idf.png" alt="esp_idf" width="40" height="40"/>
